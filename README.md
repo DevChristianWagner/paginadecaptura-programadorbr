@@ -15,7 +15,9 @@
   <a href="#autor">Autor</a>
 </p>
 
-<img src="https://media.discordapp.net/attachments/858863812430266398/923275435947745320/gif-login.gif?width=960&height=411" align="center" />
+<div align="center">
+    <img src="https://cdn.discordapp.com/attachments/857822189390135296/981889074145132594/paginadecaptura-programadorbr.gif"/>
+</div>
 
 ---
 
