@@ -1,4 +1,4 @@
-<h1 align="center">Página de Captura</h1>
+<h1 align="center">🧭 Página de Captura 🧭</h1>
 
 <h3 align="center">
     💻 Página de captura feita durante um exercício 💻 </br></br></br>
@@ -34,12 +34,12 @@ Esse projeto está sendo desenvolvido com o objetivo de aplicar os conhecimentos
 <h2>💻 Tecnologias utilizadas 💻</h2>
 
 <div align="center">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="100px" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="100px" />
 
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="100px" />
 </div> </br></br>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="15px" /> REACT é uma biblioteca JavaScript front-end gratuita e de código aberto para construir interfaces de usuário baseadas em componentes de Interface. É mantido pela Meta e uma comunidade de desenvolvedores e empresas individuais.
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="15px" /> HTML abreviação para a expressão inglesa HyperText Markup Language, que significa: "Linguagem de Marcação de Hipertexto" é uma linguagem de marcação utilizada na construção de páginas na Web. Documentos HTML podem ser interpretados por navegadores. A tecnologia é fruto da junção entre os padrões HyTime e SGML
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="15px" /> CSS3 é a terceira mais nova versão das famosas Cascading Style Sheets, onde se define estilos para seu projeto web. Com efeitos de transição, imagem, imagem de fundo/Background e outros, que dão um estilo novo e elegante a seus projetos web. Ou em todos os aspectos de design do layout da página.
 
